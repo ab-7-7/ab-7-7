@@ -14,6 +14,9 @@ My current focus is building a solid foundation in HTML, CSS, and JavaScript. I 
 
 ---
 
+🤹🏼 Skills
+
+- 
 
 <!--
 **ab-7-7/ab-7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
