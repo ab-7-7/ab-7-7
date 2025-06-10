@@ -8,17 +8,31 @@ My current focus is building a solid foundation in HTML, CSS, and JavaScript. I 
 
 ---
 
-🧰 Toolbox
+### Toolbox 🧰
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Logo" width="50" height="50">
 
 ---
 
-⚡ Fun fact
+### Fun fact ⚡
 
 - I love Football
 - I played Rugby growing up
 - Sometime I feel like I do not know what I am doing while coding, but I remember my **WHY**, and that's what keeps me going
+- My favourite Bible verse is **Psalm 23**
+
+---
+
+### Goals 🚀
+
+- Travel the world
+- Find my purpose
+- Become a professional front end developer
+- Build my own website
+- Develop an application
+- Get married
+- Have children
+
 
 <!--
 **ab-7-7/ab-7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
