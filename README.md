@@ -14,9 +14,11 @@ My current focus is building a solid foundation in HTML, CSS, and JavaScript. I 
 
 ---
 
-🤹🏼 Skills
+⚡ Fun fact
 
-- 
+- I love Football
+- I played Rugby growing up
+- Sometime I feel like I do not know what I am doing while coding, but I remember my **WHY**, and that's what keeps me going
 
 <!--
 **ab-7-7/ab-7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
